@@ -1,0 +1,10 @@
+Employee ID,Manager ID,City,Phone Number
+1,5,San Francisco,505-555-2132
+2,5,San Francisco,505-555-5109
+3,5,San Francisco,505-555-1493
+4,5,Cupertino,626-555-0671
+5,8,San Francisco,505-555-1895
+6,7,San Francisco,505-555-4407
+7,9,San Francisco,505-555-7157
+8,7,Cupertino,505-555-7067
+9,0,Cupertino,505-555-0970
